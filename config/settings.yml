@@ -1,0 +1,5 @@
+---
+server: chat.freenode.net
+nick: esircbot
+channels:
+  - "#elasticsearch-irc-example"
